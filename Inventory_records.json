@@ -1,0 +1,44 @@
+{
+    "123": {
+        "Item Name": "pizza",
+        "Item Quantity": "40",
+        "Item Rate": "199",
+        "Item Discount": "10",
+        "Item Category": "piece"
+    },
+    "456": {
+        "Item Name": "fries",
+        "Item Quantity": 43,
+        "Item Rate": "80",
+        "Item Discount": "12",
+        "Item Category": "item"
+    },
+    "789": {
+        "Item Name": "momos",
+        "Item Quantity": "50",
+        "Item Rate": "130",
+        "Item Discount": "10",
+        "Item Category": "plate"
+    },
+    "111": {
+        "Item Name": "Chilli Potato",
+        "Item Quantity": "50",
+        "Item Rate": "150",
+        "Item Discount": "10",
+        "Item Category": "plate"
+    },
+    "132": {
+        "Item Name": "veg momos",
+        "Item Quantity": "50",
+        "Item Rate": "120",
+        "Item Discount": "10",
+        "Item Category": "plate"
+    },
+    "154": {
+        "Item Name": "noodles",
+        "Item Quantity": "70",
+        "Item Rate": "50",
+        "Item Discount": "15",
+        "Item Category": "plate"
+    }
+}

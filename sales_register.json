@@ -1,0 +1,50 @@
+{
+    "2021-09-02 23:16:39.504696": {
+        "Item Name": "132",
+        "Item Quantity": 2,
+        "Item Rate": 120.0,
+        "Amount": 216.0
+    },
+    "2021-09-02 23:17:06.215207": {
+        "Item Name": "132",
+        "Item Quantity": 4,
+        "Item Rate": 120.0,
+        "Amount": 480.0
+    },
+    "2021-09-02 23:19:14.787175": {
+        "Item Name": "132",
+        "Item Quantity": 20,
+        "Item Rate": 199.0,
+        "Amount": 3582.0
+    },
+    "2021-09-03 17:45:12.462812": {
+        "Item Name": "132",
+        "Item Quantity": 5,
+        "Item Rate": 150.0,
+        "Amount": 750.0
+    },
+    "2021-09-03 17:52:22.592896": {
+        "Item Name": "132",
+        "Item Quantity": 9,
+        "Item Rate": 150.0,
+        "Amount": 1350.0
+    },
+    "2021-09-03 17:53:33.437146": {
+        "Item Name": "132",
+        "Item Quantity": 12,
+        "Item Rate": 150.0,
+        "Amount": 1800.0
+    },
+    "2021-09-03 17:56:59.390534": {
+        "Item Name": "fries",
+        "Item Quantity": 6,
+        "Item Rate": 80.0,
+        "Amount": 480.0
+    },
+    "2021-09-03 18:05:30.233153": {
+        "Item Name": "fries",
+        "Item Quantity": 7,
+        "Item Rate": 80.0,
+        "Amount": 560.0
+    }
+}
